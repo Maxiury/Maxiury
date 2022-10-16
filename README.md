@@ -1,5 +1,6 @@
 ###  hola soy Maxiury
 
+![Imagenportada](https://user-images.githubusercontent.com/113462878/196045657-69b7a0b2-052c-441b-9518-04cb7fed7e41.jpeg)
 <!--
 **Maxiury/Maxiury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
