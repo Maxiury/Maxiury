@@ -1,7 +1,17 @@
 ###  Hi I am Maxiury
 
 ![Imagenportada](https://user-images.githubusercontent.com/113462878/196045657-69b7a0b2-052c-441b-9518-04cb7fed7e41.jpeg)
- <img src="https://user-images.githubusercontent.com/113462878/196184839-bdacf6b0-8a11-4a95-8b53-051fc615f658.jpeg" width="325">
+ <a><img align="left" width="290" src="https://user-images.githubusercontent.com/113462878/196184839-bdacf6b0-8a11-4a95-8b53-051fc615f658.jpeg"></a> 
+
+
+<h3> Bienvenido a mi GitHub </h3>
+
+
+ Mi nombre es Maxiury y soy una enfermera Veterinaria expandiendo su conocimiento por el  mundo de la programación.
+ 
+ Tras estudiar y ejercer como Enfermera Veterinaria se me ofrecio la oportunidad de sumergirme en el mundo de la programacion accediendo a un grado superior de Dam y como dicen por ahi...
+ 
+ "Cuando ves una oportunidad no hay que dejarla pasar y tenemos que aferranos a ella."
 <!--
 **Maxiury/Maxiury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
