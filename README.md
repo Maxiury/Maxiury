@@ -29,11 +29,14 @@ En este espacio podras encontrar mis diversos trabajos y  proyectos ademas de po
   height="45">
 #
 
-<a><img align="right" width="270" src="https://user-images.githubusercontent.com/113462878/196224279-804bad03-304a-4725-a752-f4853089ef5a.jpeg"></a> 
+<a><img align="right" width="260" src="https://user-images.githubusercontent.com/113462878/196224279-804bad03-304a-4725-a752-f4853089ef5a.jpeg"></a> 
 <h2> Mi experiencia laboral </h2>
 He trabajando en hospitales y clinicas veterinarias, pero tambien tengo experiencia en el mundo de la hosteleria.
 
 Actualmente me encuentro trabajando en hosteleria y estudiando el grado superior de DAM en el centro  [**Luis vives**](https://www.iesluisvives.es/)
+
+#
+<a><img align="left" width="80" src="https://user-images.githubusercontent.com/113462878/196224124-278e51d0-6f50-40a8-bc82-4e8b01c6196a.jpeg"> <h2>Puedes encontrarme en la web: </h2> </a> 
 
 <!--
 **Maxiury/Maxiury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
