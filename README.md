@@ -37,7 +37,8 @@ Actualmente me encuentro trabajando en hosteleria y estudiando el grado superior
 
 #
 <a><img align="left" width="80" src="https://user-images.githubusercontent.com/113462878/196224124-278e51d0-6f50-40a8-bc82-4e8b01c6196a.jpeg"> <h2>Puedes encontrarme en la web: </h2> </a> 
-
+<a href="https://github.com/Maxiury">GitHub</a>
+<a href= "https://www.linkedin.com/feed/">Linkedin</a>
 <!--
 **Maxiury/Maxiury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
