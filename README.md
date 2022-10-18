@@ -1,6 +1,6 @@
 
 ![Imagenportada](https://user-images.githubusercontent.com/113462878/196045657-69b7a0b2-052c-441b-9518-04cb7fed7e41.jpeg)
- <a><img align="left" width="270" src="https://user-images.githubusercontent.com/113462878/196184839-bdacf6b0-8a11-4a95-8b53-051fc615f658.jpeg"></a> 
+ <a><img align="left" width="271" src="https://user-images.githubusercontent.com/113462878/196184839-bdacf6b0-8a11-4a95-8b53-051fc615f658.jpeg"></a> 
 <h1> Hi👋🏽 I am Maxiury ✨ </h1>
 <h2> Bienvenido a mi GitHub 💻 </h2>
  Mi nombre es Maxiury y soy una enfermera Veterinaria expandiendo su conocimiento por el  mundo de la programación.
