@@ -7,7 +7,8 @@
  
  Tras estudiar y ejercer como Enfermera Veterinaria se me ofrecio la oportunidad de sumergirme en el mundo de la programacion accediendo a un grado superior de DAM y como dicen por ahi...
  
-"Cuando ves una oportunidad no hay que dejarla pasar y tenemos que aferrarnos a ella."
+"Cuando ves una oportunidad no hay que dejarla pasar y tenemos que aferrarnos 
+a ella."
 
 ##
 
