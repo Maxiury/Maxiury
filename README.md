@@ -1,20 +1,17 @@
-###  Hi I am Maxiury
 
 ![Imagenportada](https://user-images.githubusercontent.com/113462878/196045657-69b7a0b2-052c-441b-9518-04cb7fed7e41.jpeg)
- <a><img align="left" width="260" src="https://user-images.githubusercontent.com/113462878/196184839-bdacf6b0-8a11-4a95-8b53-051fc615f658.jpeg"></a> 
-
-<h2> Bienvenido a mi GitHub </h2>
-
-
+ <a><img align="left" width="270" src="https://user-images.githubusercontent.com/113462878/196184839-bdacf6b0-8a11-4a95-8b53-051fc615f658.jpeg"></a> 
+<h1> Hi👋🏽 I am Maxiury ✨ </h1>
+<h2> Bienvenido a mi GitHub 💻 </h2>
  Mi nombre es Maxiury y soy una enfermera Veterinaria expandiendo su conocimiento por el  mundo de la programación.
  
  Tras estudiar y ejercer como Enfermera Veterinaria se me ofrecio la oportunidad de sumergirme en el mundo de la programacion accediendo a un grado superior de DAM y como dicen por ahi...
  
-"Cuando ves una oportunidad no hay que dejarla pasar y tenemos que aferranos a ella."
+"Cuando ves una oportunidad no hay que dejarla pasar y tenemos que aferrarnos a ella."
 
 ##
 
-<a><img align="right" width="290" src="https://user-images.githubusercontent.com/113462878/196414665-24541c9e-448e-4c0b-afd2-3e05a15b15f5.png"></a> 
+<a><img align="right" width="170" src="https://user-images.githubusercontent.com/113462878/196414665-24541c9e-448e-4c0b-afd2-3e05a15b15f5.png"></a> 
 ##
 <h2> ¿ Que puedes encontrar en mi GitHub ? </h2>
  
@@ -30,6 +27,13 @@ En este espacio podras encontrar mis diversos trabajos y  proyectos ademas de po
   height="45"> <img loading="lazy" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" 
   height="45"> <img loading="lazy" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" 
   height="45">
+#
+
+<a><img align="right" width="270" src="https://user-images.githubusercontent.com/113462878/196224279-804bad03-304a-4725-a752-f4853089ef5a.jpeg"></a> 
+<h2> Mi experiencia laboral </h2>
+He trabajando en hospitales y clinicas veterinarias, pero tambien tengo experiencia en el mundo de la hosteleria.
+
+Actualmente me encuentro trabajando en hosteleria y estudiando el grado superior de DAM en el centro  [**Luis vives**](https://www.iesluisvives.es/)
 
 <!--
 **Maxiury/Maxiury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
