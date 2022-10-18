@@ -1,14 +1,13 @@
 
 ![Imagenportada](https://user-images.githubusercontent.com/113462878/196045657-69b7a0b2-052c-441b-9518-04cb7fed7e41.jpeg)
- <a><img align="left" width="275" src="https://user-images.githubusercontent.com/113462878/196184839-bdacf6b0-8a11-4a95-8b53-051fc615f658.jpeg"></a> 
+ <a><img align="left" width="300" src="https://user-images.githubusercontent.com/113462878/196184839-bdacf6b0-8a11-4a95-8b53-051fc615f658.jpeg"></a> 
 <h1> Hi👋🏽 I am Maxiury ✨ </h1>
 <h2> Bienvenido a mi GitHub 💻 </h2>
  Mi nombre es Maxiury y soy una enfermera Veterinaria expandiendo su conocimiento por el  mundo de la programación.
  
  Tras estudiar y ejercer como Enfermera Veterinaria se me ofrecio la oportunidad de sumergirme en el mundo de la programacion accediendo a un grado superior de DAM y como dicen por ahi...
  
-"Cuando ves una oportunidad no hay que dejarla pasar y tenemos que aferrarnos 
-a ella."
+"Cuando ves una oportunidad no hay que dejarla pasar y tenemos que aferrarnos a ella."
 
 ##
 
